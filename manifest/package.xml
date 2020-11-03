@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Package xmlns="http://soap.sforce.com/2006/04/metadata">
+	<types>
+		<members>metadata_Setting_B.MD_B_Record_1</members>
+		<members>metadata_Setting_B.MD_B_Record_2</members>
+		<members>metadata_Setting_B.MD_B_Record_3</members>
+		<name>CustomMetadata</name>
+	</types>
+	<types>
+		<members>metadata_Setting_B__mdt</members>
+		<name>CustomObject</name>
+	</types>
+	<version>49.0</version>
+</Package>
